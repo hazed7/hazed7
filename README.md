@@ -1,3 +1,19 @@
 ![Banner](https://i.imgur.com/piLeKyl.jpg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazed7&show_icons=true&locale=en&layout=compact" alt="hazed7" /></p>
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/0-profile-details.svg" 
+    alt="github stats"
+  >
+  
+  </br>
+  
+  <img 
+    src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/1-repos-per-language.svg"
+  >
+  <img 
+    src="https://raw.githubusercontent.com/mmphego/mmphego/master/profile-summary-card-output/default/2-most-commit-language.svg"
+  >
+
+  </br>
+</p>
